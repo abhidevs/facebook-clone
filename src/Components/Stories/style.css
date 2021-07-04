@@ -1,0 +1,7 @@
+.stories {
+    display: flex;
+}
+
+.story:last-of-type {
+    margin-right: 0;
+}
